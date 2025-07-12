@@ -1,16 +1,55 @@
-# myapp
+# Flutter Chat App
 
-A new Flutter project.
+A one-to-one chat application built with Flutter and Firebase.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+*   Firebase Authentication for user login/registration.
+*   Firestore for storing and retrieving real-time messages and user data.
+*   Clean, modern UI using Material 3 design principles.
+*   Light and Dark mode support.
+*   Responsive layout for mobile, tablet, and web.
+*   Unread message indicator on the user list.
+*   One-to-one private messaging.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*(Please add screenshots of the app here. Example: Login Screen, User List Screen, Chat Screen)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1.  Create a Firebase project in the Firebase Console ([https://console.firebase.google.com/](https://console.firebase.google.com/)).
+2.  Enable Authentication (Email/Password).
+3.  Create a Firestore database.
+4.  Clone the repository:
+
+    ```bash
+    git clone <repository_url>
+    ```
+5.  Configure FlutterFire:
+
+    ```bash
+    dart pub global activate flutterfire_cli
+    flutterfire configure
+    ```
+6.  Run pub get:
+
+    ```bash
+    flutter pub get
+    ```
+7.  Run the app:
+
+    ```bash
+    flutter run
+    ```
+
+## Firebase Setup
+
+Ensure you have the following Firebase services set up:
+
+*   **Authentication:** Enabled with Email/Password sign-in method.
+*   **Firestore:** Database created and security rules configured (remember to configure these properly before deploying to production).
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit pull requests.

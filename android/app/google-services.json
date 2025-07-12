@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "622422611048",
+    "project_id": "chatappflutter-fe28d",
+    "storage_bucket": "chatappflutter-fe28d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622422611048:android:a82b6f437424b6039917dd",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622422611048-s7sp28jg228s4i0qlffsailodb0pc5k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDftQMgsELIu_eh91z2iaWCaXeI8YGukwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622422611048-s7sp28jg228s4i0qlffsailodb0pc5k9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622422611048-idkuvthui1amu5cas891cjif6naddeuk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
