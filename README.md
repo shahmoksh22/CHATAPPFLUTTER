@@ -14,7 +14,18 @@ A one-to-one chat application built with Flutter and Firebase.
 
 ## Screenshots
 
-*(Please add screenshots of the app here. Example: Login Screen, User List Screen, Chat Screen)*
+<p align="center">
+<img src="https://github.com/shahmoksh22/CHATAPPFLUTTER/tree/master/ScreenShot/1.png" alt="App Screenshot" width="200" height="400"/>
+
+<img src="https://github.com/shahmoksh22/CHATAPPFLUTTER/tree/master/ScreenShot/2.png" alt="App Screenshot" width="200" height="400"/>
+
+<img src="https://github.com/shahmoksh22/CHATAPPFLUTTER/tree/master/ScreenShot/3.png" alt="App Screenshot" width="200" height="400"/>
+
+<img src="https://github.com/shahmoksh22/CHATAPPFLUTTER/tree/master/ScreenShot/4.png" alt="App Screenshot" width="200" height="400"/>
+
+<img src="https://github.com/shahmoksh22/CHATAPPFLUTTER/tree/master/ScreenShot/5.png" alt="App Screenshot" width="200" height="400"/>
+
+</p>
 
 ## Installation
 
